@@ -1,4 +1,7 @@
-## Hi there 👋
+![MasterHead](https://i.ibb.co/5gyS8Gp0/Untitled-4.png)
+
+<h1 align="center">Hi, im Rodrigo Lyrio</h1>
+
 
 <!--
 **rodrigolyrio/Rodrigolyrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
