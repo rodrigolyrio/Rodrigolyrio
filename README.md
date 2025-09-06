@@ -1,4 +1,3 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=rodrigolyrio&color=3f1489">
 <img width="1536" height="529" alt="Image" src="https://github.com/user-attachments/assets/38722ab4-4934-4300-8c03-0803935056a0" />
 
 # ☁️ Rodrigo Lyrio 
@@ -101,6 +100,7 @@ Me chamo Rodrigo Lyrio Rodrigues e sou natural do Espírito Santo. Atualmente, s
   </tr>
 </table>
 </p>
+<br><img align="right" src="https://komarev.com/ghpvc/?username=rodrigolyrio&color=3f1489">
 
 <!--
 <p>
