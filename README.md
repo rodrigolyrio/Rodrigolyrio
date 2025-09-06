@@ -1,6 +1,8 @@
-![MasterHead](https://i.ibb.co/5gyS8Gp0/Untitled-4.png)
+<img src="https://i.ibb.co/5gyS8Gp0/Untitled-4.png">
 
 <h1 align="center">Hi, im Rodrigo Lyrio</h1>
+
+
 
 
 <!--
