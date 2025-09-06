@@ -1,7 +1,8 @@
 <img width="1536" height="529" alt="Image" src="https://github.com/user-attachments/assets/38722ab4-4934-4300-8c03-0803935056a0" />
 
-# ☁️ Rodrigo Lyrio 
-**`Estudante de Sistemas de Informação`**
+# <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Brain.png?raw=true" alt="Brain" width="27" height="" /> Rodrigo Lyrio 
+
+ **`Estudante de Sistemas de Informação`** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Robot" width="20" height=""/>
 
 Me chamo Rodrigo Lyrio Rodrigues e sou natural do Espírito Santo. Atualmente, sou estudante do Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (IFES), onde estou cursando o bacharelado em Sistemas de Informação. Desde os 11 anos, sou apaixonado por ciências e tecnologia, e essa paixão me impulsiona cada vez mais a buscar através de ferramentas já presentes no mercado, soluções criativas e altamente eficientes para problemas do cotidiano.
 
@@ -9,7 +10,7 @@ Me chamo Rodrigo Lyrio Rodrigues e sou natural do Espírito Santo. Atualmente, s
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" height="" /> Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -28,7 +29,6 @@ Me chamo Rodrigo Lyrio Rodrigues e sou natural do Espírito Santo. Atualmente, s
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
 />
-
 
 
 <img 
@@ -78,7 +78,7 @@ Me chamo Rodrigo Lyrio Rodrigues e sou natural do Espírito Santo. Atualmente, s
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="20" height="" /> Estatísticas
 
 <p>
 <table align="center">
@@ -100,7 +100,12 @@ Me chamo Rodrigo Lyrio Rodrigues e sou natural do Espírito Santo. Atualmente, s
   </tr>
 </table>
 </p>
-<br><img align="right" src="https://komarev.com/ghpvc/?username=rodrigolyrio&color=3f1489">
+<br>
+
+<div align="right"> 
+<img src="https://komarev.com/ghpvc/?username=rodrigolyrio&color=3f1489"> 
+<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/T-Rex.png?raw=true" alt="Robot" width="25" height="25" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,50:7F00FF,100:00D4FF&height=100&section=footer&text=&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%" />
