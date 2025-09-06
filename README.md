@@ -1,9 +1,4 @@
 <img width="1536" height="529" alt="Image" src="https://github.com/user-attachments/assets/38722ab4-4934-4300-8c03-0803935056a0" />
-
-<!--
-<h1 align="center">Hi, im Rodrigo Lyrio</h1>
--->
-
 # ☁️ Rodrigo Lyrio 
 **`Estudante de Sistemas de Informação`**
 
@@ -85,6 +80,28 @@ Me chamo Rodrigo Lyrio Rodrigues e sou natural do Espírito Santo. Atualmente, s
 ### 📊 Estatísticas
 
 <p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolyrio&hide=less,scss,hack&show_icons=true&theme=radical&layout=compact&langs_count=8" alt="rodrigolyrio GitHub stats"/>
+    </td>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigolyrio&theme=radical" alt="rodrigolyrio GitHub profile summary"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rodrigolyrio&count_private=true&count_public=true&show_icons=true&&theme=radical&include_all_commits=true" alt="rodrigolyrio GitHub stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=rodrigolyrio&theme=radical" alt="rodrigolyrio GitHub streak stats"/>
+    </td>
+  </tr>
+</table>
+</p>
+
+<!--
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -101,7 +118,7 @@ Me chamo Rodrigo Lyrio Rodrigues e sou natural do Espírito Santo. Atualmente, s
   />
 
 </p>
-
+-->
 
 
 <!--
