@@ -1,4 +1,4 @@
-<img width="1563" height="625" alt="Image" src="https://github.com/user-attachments/assets/df664788-cf15-4053-91eb-82f9c66157f5" />
+<img width="1536" height="529" alt="Image" src="https://github.com/user-attachments/assets/38722ab4-4934-4300-8c03-0803935056a0" />
 
 <h1 align="center">Hi, im Rodrigo Lyrio</h1>
 
