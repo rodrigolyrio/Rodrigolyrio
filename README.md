@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/5gyS8Gp0/Untitled-4.png">
+<img width="1563" height="625" alt="Image" src="https://github.com/user-attachments/assets/df664788-cf15-4053-91eb-82f9c66157f5" />
 
 <h1 align="center">Hi, im Rodrigo Lyrio</h1>
 
