@@ -103,7 +103,7 @@ Me chamo Rodrigo Lyrio Rodrigues e sou natural do Espírito Santo. Atualmente, s
 <br><img align="right" src="https://komarev.com/ghpvc/?username=rodrigolyrio&color=3f1489">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,50:7F00FF,100:00D4FF&height=200&section=footer&text=&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,50:7F00FF,100:00D4FF&height=100&section=footer&text=&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%" />
 </div>
 
 
