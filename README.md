@@ -81,8 +81,8 @@ Me chamo Rodrigo Lyrio Rodrigues e sou natural do Espírito Santo. Atualmente, s
     title="Streamlit"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
+/>        
 
 <img 
     align="left" 
